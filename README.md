@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anirban007-jpg
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning vuejs and learnt laravel, MERN Stack, Graphics designing
+- 🌱 I’m currently learning vuejs,JSP and Servlet and learnt laravel, MERN Stack, Graphics designing, Spring boot, nextjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email address is abanerjee763@gmail.com
 
