@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anirban007-jpg
 - 👀 I’m interested in web development, graphics designing and to implement ML as well as AI to make websites look more responsive and interactive as well as developing microservices. 
-- 🌱 I’m currently learning JSP and Servlet, ML and AI for websites to make them responsive and interactive and learnt laravel, MERN Stack, Graphics designing, Spring boot, nextjs.
+- 🌱 I’m currently learned JSP and Servlet, ML and AI for websites to make them responsive and interactive and learnt laravel, MERN Stack, Graphics designing, Spring boot, nextjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email address is abanerjee763@gmail.com
 
